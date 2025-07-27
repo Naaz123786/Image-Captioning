@@ -1,3 +1,5 @@
+- Live Google Colab File - https://colab.research.google.com/drive/1ffLAscLxbDPsXdLmBQXb7VDDgy5qkz-9?usp=drive_link
+
 # 📸 Image Captioning Generator
 
 This project is a deep learning-based **Image Captioning Generator**, developed and executed in **Google Colab**. It combines **Computer Vision** and **Natural Language Processing (NLP)** to automatically generate descriptive captions for images using a combination of **CNN (Convolutional Neural Networks)** and **RNN (LSTM)** architectures.
